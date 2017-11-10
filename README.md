@@ -1,3 +1,3 @@
 # battery-tester
 
-![batterietester.png](./batterietester.png)
+![Batterietester.png](./Batterietester.png)
