@@ -22,3 +22,6 @@ _saved_*
 # Exported BOM files
 *.xml
 *.csv
+
+# Binaries
+*.zip
