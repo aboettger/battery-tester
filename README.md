@@ -8,6 +8,8 @@ AA and AAA cells
 
 ## Rev 1
 
+**!!!Capacitor is reversed!!!**
+
 ![Revision 1](./Batterietester.png)
 
 ![Revision 1](./preview.jpeg)
