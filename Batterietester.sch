@@ -126,7 +126,7 @@ F 1 "4,7µ" H 2775 2100 50  0000 L CNN
 F 2 "Capacitors_ThroughHole:CP_Radial_D4.0mm_P1.50mm" H 2788 2050 50  0001 C CNN
 F 3 "" H 2750 2200 50  0001 C CNN
 	1    2750 2200
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L GND #PWR01
