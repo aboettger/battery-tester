@@ -118,17 +118,6 @@ F 3 "" H 6150 2500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C1
-U 1 1 59FF1D94
-P 2750 2200
-F 0 "C1" H 2775 2300 50  0000 L CNN
-F 1 "4,7µ" H 2775 2100 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:CP_Radial_D4.0mm_P1.50mm" H 2788 2050 50  0001 C CNN
-F 3 "" H 2750 2200 50  0001 C CNN
-	1    2750 2200
-	0    -1   -1   0   
-$EndComp
-$Comp
 L GND #PWR01
 U 1 1 59FF1E61
 P 2900 2200
@@ -590,5 +579,16 @@ F 2 "" H 1800 1950 50  0001 C CNN
 F 3 "" H 1800 1950 50  0001 C CNN
 	1    1800 1950
 	0    1    1    0   
+$EndComp
+$Comp
+L CP C1
+U 1 1 5A21BB0E
+P 2750 2200
+F 0 "C1" H 2775 2300 50  0000 L CNN
+F 1 "4,7µ" H 2775 2100 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:CP_Radial_D4.0mm_P1.50mm" H 2788 2050 50  0001 C CNN
+F 3 "" H 2750 2200 50  0001 C CNN
+	1    2750 2200
+	0    -1   -1   0   
 $EndComp
 $EndSCHEMATC
