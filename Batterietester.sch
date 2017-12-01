@@ -99,7 +99,7 @@ encoding utf-8
 Sheet 1 1
 Title "Batterietester"
 Date "2017-11-05"
-Rev "1"
+Rev "2"
 Comp "Andreas Böttger"
 Comment1 "Batterietester für AA und AAA"
 Comment2 ""
@@ -189,7 +189,7 @@ U 1 1 59FF38F7
 P 6150 1650
 F 0 "RV1" V 5975 1650 50  0000 C CNN
 F 1 "10k" V 6050 1650 50  0000 C CNN
-F 2 "Potentiometers:Potentiometer_Trimmer_ACP_CA6v_Horizontal" H 6150 1650 50  0001 C CNN
+F 2 "Potentiometers:Potentiometer_Trimmer_Copal_CT-6EP" H 6150 1650 50  0001 C CNN
 F 3 "" H 6150 1650 50  0001 C CNN
 	1    6150 1650
 	1    0    0    -1  
@@ -200,7 +200,7 @@ U 1 1 59FF3B74
 P 6850 2500
 F 0 "RV2" V 6675 2500 50  0000 C CNN
 F 1 "10k" V 6750 2500 50  0000 C CNN
-F 2 "Potentiometers:Potentiometer_Trimmer_ACP_CA6v_Horizontal" H 6850 2500 50  0001 C CNN
+F 2 "Potentiometers:Potentiometer_Trimmer_Copal_CT-6EP" H 6850 2500 50  0001 C CNN
 F 3 "" H 6850 2500 50  0001 C CNN
 	1    6850 2500
 	-1   0    0    1   
