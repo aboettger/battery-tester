@@ -1,4 +1,6 @@
-# battery-tester
+# Primary cell tester (battery tester)
+
+AA and AAA cells
 
 ## Rev 2 (WIP)
 
